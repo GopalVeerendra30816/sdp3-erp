@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EmployeeManagementWebappApplication<employee-management-webapp>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "net.javaguides.springboot.EmployeeManagementWebappApplication",
+            "projectName": "employee-management-webapp",
+            "args": ""
+        }
+    ]
+}
